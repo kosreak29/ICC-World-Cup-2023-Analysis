@@ -155,8 +155,7 @@ This project uses **4 CSV files**:
 ---
 
 ## Project Structure
-
-bash  
+ 
 ICC-World-Cup-2023-Analysis/  
 │  
 ├── ICC_WC_Dashborad.ipynb  
