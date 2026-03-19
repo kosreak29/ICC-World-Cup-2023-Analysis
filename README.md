@@ -157,14 +157,14 @@ This project uses **4 CSV files**:
 ## Project Structure
 
 bash
-ICC-World-Cup-2023-Analysis/
-│
-├── ICC_WC_Dashborad.ipynb
-├── batting_summary.csv
-├── bowling_summary.csv
-├── match_schedule_results.csv
-├── world_cup_players_info.csv
-└── README.md
+ICC-World-Cup-2023-Analysis/  
+│  
+├── ICC_WC_Dashborad.ipynb  
+├── batting_summary.csv  
+├── bowling_summary.csv  
+├── match_schedule_results.csv  
+├── world_cup_players_info.csv  
+└── README.md  
 
 ## Author
 Aman K  
